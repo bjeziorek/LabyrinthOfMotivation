@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\optionsManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\aforyzmy_mgr.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\canvas_elem_positioner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\cube_collider.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\endPoint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\gwiazdeczki_mgr.cs" Line="200" Column="1" />
+      <File FileName="Assets\Scripts\literka.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\literki_grupa.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\lvlManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\menuManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\moveSun.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\optionsManager.cs" Line="157" Column="97" />
+      <File FileName="Assets\Scripts\Narzedzia.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\tdans.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\tutorial.cs" Line="1" Column="1" />
+      <File FileName="Assets\btn7.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\gwiazdeczka_obj.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\sphere.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
